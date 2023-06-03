@@ -1,5 +1,4 @@
 # YESmart
-Sure! Here's a description for an e-commerce site:
 
 Welcome to YESmart, your ultimate destination for online shopping. We bring you a seamless and convenient shopping experience right at your fingertips. With a vast selection of products, competitive prices, and top-notch customer service, we are here to fulfill all your shopping needs.
 
