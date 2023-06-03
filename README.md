@@ -1,9 +1,12 @@
 # YESmart
 
 Welcome to YESmart, your ultimate destination for online shopping. We bring you a seamless and convenient shopping experience right at your fingertips. With a vast selection of products, competitive prices, and top-notch customer service, we are here to fulfill all your shopping needs.
+![Screenshot (102)](https://github.com/Ankita19soni/YESmart/assets/132035991/5fefd299-9ac5-4630-8b94-718e2194f74f)
+![Screenshot (104)](https://github.com/Ankita19soni/YESmart/assets/132035991/2222cfd2-d52b-4fc6-8c75-55582c941239)
+![Screenshot (105)](https://github.com/Ankita19soni/YESmart/assets/132035991/a350aa81-c093-4332-a945-fba05813d9e5)
 
-<img align="right" width="400" src="[https://github.com/Ankita19soni/YESmart/assets/132035991/8f996ffe-1328-45d3-99a0-4b8ff0d78262]" alt="fork this repository" />
 
+![Screenshot (103)](https://github.com/Ankita19soni/YESmart/assets/132035991/7d24c3c0-c697-4d31-8a7a-5d73b84ea3fa)
 
 At YESmart, we understand the importance of variety, which is why we offer an extensive range of products across multiple categories. Whether you're looking for the latest fashion trends, high-quality electronics, home decor, beauty essentials, or fitness equipment, we've got you covered. Our diverse collection ensures that you'll find exactly what you're searching for, no matter your personal style or preferences.
 
